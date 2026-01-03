@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Output directories (user-specific)
+summaries/
+
+# Config files (user-specific)
+bulk-summarize.json
+*.local.json
+
+# OS files
+.DS_Store
